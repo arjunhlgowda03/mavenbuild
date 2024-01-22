@@ -1,1 +1,3 @@
-# mavenbuild
+# maven-project
+
+Demo Maven Project
